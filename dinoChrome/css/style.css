@@ -61,7 +61,7 @@
     border-radius: 10px;
 }
 
-@keyframes pipe-animation {
+@keyframes cacto-animation {
     from {
         right: -80px;
     }
